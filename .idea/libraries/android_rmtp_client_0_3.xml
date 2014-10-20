@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="android-rmtp-client-0.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.red5/android-rmtp-client/0.3/5c73bab151d31f15fe4a60b4cdb0662c343ef9dd/android-rmtp-client-0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.red5/android-rmtp-client/0.3/370abe3f582322798b5793e768a8b01296335be8/android-rmtp-client-0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

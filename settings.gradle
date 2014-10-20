@@ -1,1 +1,1 @@
-include ':video_service', ':video_client'
+include ':video_service', ':video_client', ':rtmp_video_publisher', ':rtmp_video_receiver'

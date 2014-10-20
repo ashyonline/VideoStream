@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectModuleManager">
-    <modules />
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/VideoStream.iml" filepath="$PROJECT_DIR$/VideoStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rtmp_video_publisher/rtmp_video_publisher.iml" filepath="$PROJECT_DIR$/rtmp_video_publisher/rtmp_video_publisher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rtmp_video_receiver/rtmp_video_receiver.iml" filepath="$PROJECT_DIR$/rtmp_video_receiver/rtmp_video_receiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/video_client/video_client.iml" filepath="$PROJECT_DIR$/video_client/video_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/video_service/video_service.iml" filepath="$PROJECT_DIR$/video_service/video_service.iml" />
+    </modules>
   </component>
 </project>
 

@@ -8,6 +8,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/rtmp_video_publisher" />
+            <option value="$PROJECT_DIR$/rtmp_video_receiver" />
             <option value="$PROJECT_DIR$/video_client" />
             <option value="$PROJECT_DIR$/video_service" />
           </set>
